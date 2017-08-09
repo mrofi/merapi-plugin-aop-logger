@@ -24,7 +24,7 @@ npm install merapi-plugin-aop-logger --save
     ],
     aspects: {
         logging: {
-            handler: aopLogger.logMethod,
+            handler: aopLogger.log,
             match: "*.*",
             options: {
                 output: "test log [methodName]: [params] [result]"
