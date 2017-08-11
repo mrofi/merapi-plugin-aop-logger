@@ -34,4 +34,4 @@ npm install merapi-plugin-aop-logger --save
 }
 ```
 
-`aop-logger` handler is aopLogger.logMethod with `methodName`, `params`, and `result` as available placeholder variable.
+`aop-logger` handler is aopLogger.log with `methodName`, `params`, and `result` as available placeholder variable.
