@@ -1,6 +1,6 @@
 {
   "name": "@yesboss/merapi-plugin-aop-logger",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Logger Handler for Merapi AOP Plugin",
   "main": "index.js",
   "scripts": {
