@@ -1,10 +1,14 @@
 {
-  "name": "@yesboss/merapi-plugin-aop-logger",
+  "name": "merapi-plugin-aop-logger",
   "version": "0.1.5",
   "description": "Logger Handler for Merapi AOP Plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:kata-ai/merapi-plugin-aop-logger.git"
   },
   "author": "Ricky Anders <rickyanders93@gmail.com>",
   "license": "ISC",
