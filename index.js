@@ -3,7 +3,7 @@
 module.exports = function (container) {
     return {
         dependencies: [],
-        *onBeforeComponentsRegister() {
+        *onAfterPluginInit() {
             container.register("aopLogger", require("./lib/aop_logger"));
         }
     }
