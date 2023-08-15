@@ -1,5 +1,5 @@
 {
-  "name": "@rofi-kata/merapi-plugin-aop-logger",
+  "name": "merapi-plugin-aop-logger-v2",
   "version": "0.1.0",
   "description": "Logger Handler for Merapi AOP Plugin",
   "main": "index.js",
