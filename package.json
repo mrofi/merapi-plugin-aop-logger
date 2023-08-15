@@ -1,6 +1,6 @@
 {
-  "name": "merapi-plugin-aop-logger",
-  "version": "0.2.0",
+  "name": "@rofi-kata/merapi-plugin-aop-logger",
+  "version": "0.1.0",
   "description": "Logger Handler for Merapi AOP Plugin",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:kata-ai/merapi-plugin-aop-logger.git"
+    "url": "git+ssh://git@github.com:mrofi/merapi-plugin-aop-logger.git"
   },
-  "author": "Ricky Anders <rickyanders93@gmail.com>",
+  "author": "Ricky Anders <rickyanders93@gmail.com>, Mokhamad Rofiudin <mokh.rofiudi@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "merapi": "^0.19.0"
